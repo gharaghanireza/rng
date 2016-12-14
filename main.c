@@ -1,1 +1,5 @@
-hdhewbd,mnbew
+#include<Stdio.h>
+int sum(int i, int j)
+{
+	return i + j;
+}
